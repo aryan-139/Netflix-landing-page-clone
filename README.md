@@ -28,6 +28,7 @@ The project is currently deployed using `GitHub pages` and the link to the same 
 ## Screen Grabs
 
 Following are the screengrabs of the `project`.
+
 <img width="1440" alt="Screenshot 2022-06-09 at 12 57 03 PM" src="https://user-images.githubusercontent.com/62373648/172789958-d8f649d3-ef12-45fa-853e-ebc7c9a7d4b0.png">
 
 <img width="1440" alt="Screenshot 2022-06-09 at 12 56 41 PM" src="https://user-images.githubusercontent.com/62373648/172789911-95bf83a6-22ec-46f3-ac33-88540cf7f3b1.png">
