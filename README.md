@@ -21,9 +21,10 @@ This is a clone of the original Netflix landing page.
 
 ## Deployment
 
-The project is currently deployed using GitHub pages and the link to the same is attached below. 
+The project is currently deployed using `GitHub pages` and the link to the same is attached below. 
 
 [Netflix-landing-page-clone](aryan-139.github.io/netflix-landing-page-clone/)
 
 ## Screen Grabs
+
 
